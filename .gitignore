@@ -1,0 +1,10 @@
+bin
+obj
+*.sln
+.vs/
+.vscode/
+.DS_Store
+*.swp
+project.lock.json
+project.fragment.lock.json
+artifacts/
